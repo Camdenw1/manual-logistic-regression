@@ -7,6 +7,6 @@ The steps include data preprocessing, model implementation using stochastic grad
 
 ### Conclusion
 
-My understand of logistic regression and mini-Batch stochastic gradient descent are showcased here.
+This project shows my understanding of logistic regression and mini-batch stochastic gradient descent, built from scratch.
 
 
